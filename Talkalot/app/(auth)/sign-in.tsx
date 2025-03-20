@@ -12,6 +12,7 @@ export default function Page() {
 
 const styles = StyleSheet.create({
     container: {
+        backgroundColor: "#5ab1ff",
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
